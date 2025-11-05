@@ -91,5 +91,49 @@ English • Malayalam • Hindi
 > *"Learning is a journey, and every step forward creates new opportunities."*
 
 ---
+### 🤖 AI Coding & Productivity Tools
+
+<p align="center">
+
+  <!-- ChatGPT -->
+  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+
+  <!-- Cursor IDE -->
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+
+  <!-- Vercel v0 -->
+  <img src="https://img.shields.io/badge/Vercel%20v0-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+  <!-- GitHub Copilot -->
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-1A7FDC?style=for-the-badge&logo=github&logoColor=white" />
+
+  <!-- Bolt.new -->
+  <img src="https://img.shields.io/badge/Bolt.new-4A3AFF?style=for-the-badge&logoColor=white" />
+
+  <!-- Codeium -->
+  <img src="https://img.shields.io/badge/Codeium-6A9AE2?style=for-the-badge&logoColor=white" />
+
+  <!-- Tabnine -->
+  <img src="https://img.shields.io/badge/Tabnine-FFB000?style=for-the-badge&logoColor=black" />
+
+  <!-- Blackbox AI -->
+  <img src="https://img.shields.io/badge/Blackbox%20AI-111111?style=for-the-badge&logoColor=white" />
+
+  <!-- Claude AI -->
+  <img src="https://img.shields.io/badge/Claude-AE8AFF?style=for-the-badge&logoColor=black" />
+
+  <!-- Phind -->
+  <img src="https://img.shields.io/badge/Phind-0081F1?style=for-the-badge&logoColor=white" />
+
+  <!-- Google Gemini -->
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+
+  <!-- Microsoft Copilot -->
+  <img src="https://img.shields.io/badge/Microsoft%20Copilot-7429FF?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+  <!-- Notion AI -->
+  <img src="https://img.shields.io/badge/Notion%20AI-000000?style=for-the-badge&logo=notion&logoColor=white" />
+
+</p>
 
 <p align="center">⭐️ Thanks for visiting! Feel free to connect with me.</p>
